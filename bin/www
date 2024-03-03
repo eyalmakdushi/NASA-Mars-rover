@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('../JS/api');
 var debug = require('debug')('ex4-template:server');
 var http = require('http');
 
